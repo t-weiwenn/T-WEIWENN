@@ -1,4 +1,6 @@
-# Hello, my name is Wei Wen 🕸
+# Hello!
+
+My name is Wei Wen 🚲
 
 I’m a social worker turned data analyst, driven by the belief that evidence and data should guide the way we design interventions and create impact. With over a decade of mid-management experience in social work, I’m now building expertise in predictive modeling, data visualization, and storytelling.
 
